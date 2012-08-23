@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/Trakkasure/NodeSSH.png)](http://travis-ci.org/Trakkasure/NodeSSH)
 NodeSSH
 ------------------------------------------------------------------------
 
